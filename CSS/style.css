@@ -83,6 +83,8 @@ body{
 
     margin-left: 565px;
 
+    position:fixed;
+
     display: flex;
     justify-content:center;
     align-items:center;
@@ -97,5 +99,15 @@ body{
     width: 5vw;
 
     margin-left: 7px;
+}
+
+.boton_izq_1{
+    border: 1px solid #000;
+    border-radius:100%;
+
+    height:10vh;
+    width: 9vw;
+
+    margin: 0 530px 180px 0;
 }
 
