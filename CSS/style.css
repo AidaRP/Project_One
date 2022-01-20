@@ -13,7 +13,7 @@ body{
     
 }
 
-                            /* FORMA DEL DIGIVICE */
+                                                                       /* FORMA DEL DIGIVICE */
 .digivice{
     background-color: aqua;
     
@@ -28,7 +28,8 @@ body{
     align-items: center;
 
 }
-                                /* DIGIVICE CIRCULO EXT*/
+/* -------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------- */
+                                                                            /* DIGIVICE CIRCULO EXT*/
 .circulo_ext{
     border: 1px solid #000;
                                     
@@ -43,7 +44,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-                                /* DIGIVICE CIRCULO INT*/
+                                                                            /* DIGIVICE CIRCULO INT*/
 .circulo_int{
     border: 1px solid #000;
                                     
@@ -56,7 +57,8 @@ body{
     justify-content: center;
     align-items: center;
 }
-                                /* PANTALLA */
+/* ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */                                 
+                                                                              /*--------- PANTALLA -------- */
 .pantalla{
     border-color: coral;
     border: 1px solid #000;
@@ -67,6 +69,10 @@ body{
     display: flex;
     justify-content:center;
 }
+/* --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+                                                                                /*--------- BOTONES-------- */
+
 
 .boton_der{
     border: 1px solid #000;
@@ -77,5 +83,19 @@ body{
 
     margin-left: 565px;
 
+    display: flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.boton_der_int{
+    border: 1px solid #000;
+    border-radius:100%;
+
+    height:9vh;
+    width: 5vw;
+
+    margin-left: 7px;
 }
 
