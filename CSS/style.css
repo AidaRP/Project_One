@@ -49,13 +49,18 @@ body{
     height:30vh;
                                     
     border-radius:50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
                                 /* PANTALLA */
 .pantalla{
     border-color: coral;
-    
-    height:10em;
-    width: 20vw;
+    border: 1px solid #000;
+
+    height:20vh;
+    width: 10vw;
     
     display: flex;
     justify-content:center;
