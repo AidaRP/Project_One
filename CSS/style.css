@@ -37,6 +37,8 @@ body{
                                     
     border-radius:50%;
 
+    position: fixed;
+
     display: flex;
     justify-content: center;
     align-items: center;
@@ -64,5 +66,16 @@ body{
     
     display: flex;
     justify-content:center;
+}
+
+.boton_der{
+    border: 1px solid #000;
+    border-radius:100%;
+
+    height:14vh;
+    width: 8vw;
+
+    margin-left: 565px;
+
 }
 
