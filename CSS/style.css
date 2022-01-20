@@ -98,7 +98,7 @@ body{
     height:9vh;
     width: 5vw;
 
-    margin-left: 7px;
+    margin-left: 6px;
 }
 
 .boton_izq_1{
@@ -143,4 +143,13 @@ body{
     align-items:center;
 }
 
+.boton_izq_int_2{
+    border: 1px solid #000;
+    border-radius:100%;
+
+    height:7vh;
+    width: 6.8vw;
+
+    
+}
 
