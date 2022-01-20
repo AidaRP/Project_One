@@ -23,9 +23,41 @@ body{
     border: 1px solid #000;
     border-radius: 40%;
 
-}
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
+}
+                                /* DIGIVICE CIRCULO EXT*/
+.circulo_ext{
+    border: 1px solid #000;
+                                    
+    width: 30vw;
+    height:50vh;
+                                    
+    border-radius:50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+                                /* DIGIVICE CIRCULO INT*/
+.circulo_int{
+    border: 1px solid #000;
+                                    
+    width: 15vw;
+    height:30vh;
+                                    
+    border-radius:50%;
+}
                                 /* PANTALLA */
 .pantalla{
+    border-color: coral;
     
+    height:10em;
+    width: 20vw;
+    
+    display: flex;
+    justify-content:center;
 }
+
