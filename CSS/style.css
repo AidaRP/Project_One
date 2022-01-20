@@ -109,6 +109,8 @@ body{
     width: 9vw;
 
     margin: 0 530px 180px 0;
+
+    position:fixed;
     
     display:flex;
     justify-content:center;
@@ -124,3 +126,21 @@ body{
 
     
 }
+
+.boton_izq_2{
+    border: 1px solid #000;
+    border-radius:100%;
+
+    height:10vh;
+    width: 9vw;
+
+    margin: 200px 530px 50px 0;
+
+    position:fixed;
+    
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+
