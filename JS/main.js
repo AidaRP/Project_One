@@ -7,3 +7,9 @@ changeView = () => {
 
 }
 
+
+turnOnBlue = () => {
+
+
+}
+
