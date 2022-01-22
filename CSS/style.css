@@ -301,3 +301,42 @@ body{
   }
 
 /*------------------------------------------------------------------------------------------------------------------------------------------------------ */
+/* -----------------------------------------------------------------ÁNGULOS BOTONES--------------------------------------------------------------------- */
+.digi_ang{
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    border: 1px solid rgb(255, 1, 1);
+    border-radius:30%;
+
+}
+
+#digi_ang-izq-sup{
+    top:-240px;
+    left:-400px;
+    transform:rotate(90deg);
+   
+}
+
+
+#digi_ang-izq-inf{
+    top:240px;
+    left:-400px;
+    transform:rotate(90deg);
+    
+}
+
+
+#digi_ang-der-sup{
+    top:-240px;
+    left:400px;
+    transform:rotate(90deg);
+    
+}
+
+#digi_ang-der-inf{
+    top:240px;
+    left:400px;
+    transform:rotate(90deg);
+  
+}
