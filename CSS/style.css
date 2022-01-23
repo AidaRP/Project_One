@@ -306,37 +306,45 @@ body{
     position: absolute;
     width: 250px;
     height: 200px;
-    border: 1px solid rgb(255, 1, 1);
-    border-radius:30%;
+    /* border: 1px solid rgb(255, 0, 0); */
+    border-radius:45%;
 
 }
 
 #digi_ang-izq-sup{
-    top:-240px;
-    left:-400px;
-    transform:rotate(90deg);
+    top:-290px;
+    left:-450px;
+    transform:rotate(-180deg);
+    background-color:white;
+    border: 1px solid #000;
    
 }
 
 
 #digi_ang-izq-inf{
-    top:240px;
+    top:290px;
     left:-400px;
-    transform:rotate(90deg);
+    transform:rotate(-180deg);
+    background-color:white;
+    border: 1px solid #000;
     
 }
 
 
 #digi_ang-der-sup{
-    top:-240px;
+    top:-290px;
     left:400px;
-    transform:rotate(90deg);
+    transform:rotate(-180deg);
+    background-color:white;
+    border: 1px solid #000;
     
 }
 
 #digi_ang-der-inf{
-    top:240px;
+    top:290px;
     left:400px;
-    transform:rotate(90deg);
+    transform:rotate(-180deg);
+    background-color:white;
+    border: 1px solid #000;
   
 }
