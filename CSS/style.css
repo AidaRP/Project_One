@@ -50,7 +50,9 @@ body{
                                                                             /* DIGIVICE CIRCULO INT*/
 .circulo_int{
     border: 1px solid #000;
-                                    
+                             
+    background-color:black;
+
     width: 15vw;
     height:30vh;
                                     
@@ -64,6 +66,8 @@ body{
                                                                               /*--------- PANTALLA -------- */
 .pantalla{
     border: 1px solid rgb(0, 0, 0);
+
+    background-color:whitesmoke;
 
     height:20vh;
     width: 10vw;
