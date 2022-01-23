@@ -460,11 +460,59 @@ body{
     position:absolute;
 
     top: 145px ;
-    left: 460px;
+    left: 450px;
 
     border-radius: 30%;
 
     transform:rotate(60deg);
 
     background-color:black;
+}
+
+.linea_antena_1{
+    height:70px;
+    width:0.5px;
+
+    top: 100px;
+    left:470px;
+
+    position:absolute;
+
+    border-radius: 100%;
+
+    background-color:rgb(255, 255, 255);
+
+    transform:rotate(240deg);
+}
+
+.linea_antena_2{
+    height:70px;
+    width:0.5px;
+
+    top: 150px;
+    left:520px;
+
+    position:absolute;
+
+    border-radius: 100%;
+
+    background-color:rgb(255, 255, 255);
+
+    transform:rotate(240deg);
+}
+
+.linea_antena_3{
+    height:88px;
+    width:0.5px;
+
+    top: 127px;
+    left:480px;
+
+    position:absolute;
+
+    border-radius: 100%;
+
+    background-color:rgb(255, 255, 255);
+
+    transform:rotate(240deg);
 }
