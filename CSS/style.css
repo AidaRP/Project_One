@@ -394,3 +394,31 @@ body{
     top: 100px;
     left: 990px;
 }
+
+.cuadrados_inf_1{
+    background-color: rgb(0, 0, 0);
+
+    width:50px;
+    height:70px;
+    
+    border-radius: 30%;
+
+    position: absolute;
+
+    top: 650px;
+    left: 710px;
+}
+
+.cuadrados_inf_2{
+    background-color: rgb(0, 0, 0);
+
+    width:50px;
+    height:70px;
+    
+    border-radius: 30%;
+
+    position: absolute;
+
+    top: 650px;
+    left: 990px;
+}
