@@ -15,13 +15,15 @@ body{
 
                                                                        /* FORMA DEL DIGIVICE */
 .digivice{
-    background-color: aqua;
+    background-color: rgb(180, 187, 187);
     
     width:60vw;
     height: 70vh;
     
-    border: 1px solid #000;
+    border: 1px solid rgba(0, 98, 255, 0.246);
     border-radius: 40%;
+
+    
 
     display: flex;
     justify-content: center;
@@ -61,7 +63,7 @@ body{
                                                                               /*--------- PANTALLA -------- */
 .pantalla{
     border-color: coral;
-    border: 1px solid #000;
+    border: 1px solid rgb(0, 0, 0);
 
     height:20vh;
     width: 10vw;
@@ -425,14 +427,44 @@ body{
 
 .linea_1{
     width:0.5px;
-    height:173px;
+    height:210px;
 
     position: absolute;
 
     background-color: black;
 
-    top: 222px;
-    left: 442px;
+    top: 242px;
+    left: 453px;
 
     transform:rotate(95deg);
+}
+
+.linea_2{
+    width:0.5px;
+    height:189px;
+
+    position: absolute;
+
+    background-color: black;
+
+    top: 378px;
+    left: 442px;
+
+    transform:rotate(85deg);
+}
+
+.antena{
+    width:120px;
+    height:30px;
+
+    position:absolute;
+
+    top: 145px ;
+    left: 460px;
+
+    border-radius: 30%;
+
+    transform:rotate(60deg);
+
+    background-color:black;
 }
