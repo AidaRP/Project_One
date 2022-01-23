@@ -110,6 +110,8 @@ body{
     height:10vh;
     width: 9vw;
 
+    background-color:black;
+
     margin: 0 530px 180px 0;
 
     position:fixed;
