@@ -422,3 +422,17 @@ body{
     top: 650px;
     left: 990px;
 }
+
+.linea_1{
+    width:0.5px;
+    height:173px;
+
+    position: absolute;
+
+    background-color: black;
+
+    top: 222px;
+    left: 442px;
+
+    transform:rotate(95deg);
+}
