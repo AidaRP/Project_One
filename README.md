@@ -4,9 +4,7 @@
 
 ##  👩‍💻 TECNOLOGÍAS UTILIZADAS: 
 
-
-![Texto alternativo](C:\Users\Aida\Desktop\Diseños\tecno.png)
-
+![tecno](https://user-images.githubusercontent.com/90700748/150742566-dcad0d56-cf12-46ad-b117-33b4e964312b.png)
 
 
 ## ✍RESUMEN PROYECTO:
