@@ -417,7 +417,7 @@ body{
 
     position: absolute;
 
-    top: 650px;
+    top: 610px;
     left: 710px;
 }
 
@@ -431,7 +431,7 @@ body{
 
     position: absolute;
 
-    top: 650px;
+    top: 610px;
     left: 990px;
 }
 
@@ -443,7 +443,7 @@ body{
 
     background-color: black;
 
-    top: 242px;
+    top: 220px;
     left: 453px;
 
     transform:rotate(95deg);
@@ -457,7 +457,7 @@ body{
 
     background-color: black;
 
-    top: 378px;
+    top: 360px;
     left: 442px;
 
     transform:rotate(85deg);
@@ -469,7 +469,7 @@ body{
 
     position:absolute;
 
-    top: 145px ;
+    top: 125px ;
     left: 450px;
 
     border-radius: 30%;
@@ -483,8 +483,8 @@ body{
     height:70px;
     width:0.5px;
 
-    top: 100px;
-    left:470px;
+    top: 90px;
+    left:480px;
 
     position:absolute;
 
@@ -499,7 +499,7 @@ body{
     height:70px;
     width:0.5px;
 
-    top: 150px;
+    top: 120px;
     left:520px;
 
     position:absolute;
@@ -515,7 +515,7 @@ body{
     height:88px;
     width:0.5px;
 
-    top: 127px;
+    top: 105px;
     left:480px;
 
     position:absolute;
