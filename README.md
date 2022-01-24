@@ -6,6 +6,8 @@
 
 ![tecno](https://user-images.githubusercontent.com/90700748/150742566-dcad0d56-cf12-46ad-b117-33b4e964312b.png)
 
+## IMÁGEN DEL PROYECTO:
+![consola_1](https://user-images.githubusercontent.com/90700748/150746083-b835230f-3467-485b-b4e3-2fb2444e1aff.jpg)
 
 ## ✍RESUMEN PROYECTO:
 * -El proyecto consiste en un maquetación del dispositivo digital Digivice del anime Digimon utilizando las tecnologías HTML & CSS. 
